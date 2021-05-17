@@ -42,4 +42,4 @@ st.write(iris.target_names)
 
 #predicting the output
 st.subheader('prediction')
-st.write(iris.target_names[prediction])
+st.write(iris.target_names[prediction]) 
