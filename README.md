@@ -1,5 +1,5 @@
-# iris-shekhar  
-**A simple machine learning based website which classify the iris flowers **  
+# iris-shekhar    
+**A simple machine learning based website which classify the iris flowers**   
 
 # About Me 
 Greetings Everyone,  
