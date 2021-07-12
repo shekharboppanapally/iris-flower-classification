@@ -18,7 +18,7 @@ def user_input(): #here we are taking inputs from the users using sidebars with 
   return features
 
 st.title(' **IRIS FLOWER CLASSIFICATION** ')
-st.write('#  using IRIS dataset by_SHEKHAR')
+st.write('#  using IRIS dataset')
 st.write('number of classes:3') #3 classes are:= 1.setosa,2.verginica,3.versicolor
 st.write('classifier:KNN')
 st.write('Accuracy :0.95') 
