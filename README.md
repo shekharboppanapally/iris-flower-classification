@@ -1,4 +1,4 @@
-# iris-shekhar    
+# iris-flower-classification  
 **A simple machine learning based website which classify the iris flowers**   
 
 # About Me 
